@@ -39,7 +39,7 @@ project.
 </table>
 
 <p align="center">
-  <img src="docs/demo/walkthrough.svg" width="240"><br>
+  <img src="docs/demo/walkthrough.gif" width="240"><br>
   <sub>Walkthrough — scroll → open a widget → copy its source</sub>
 </p>
 
