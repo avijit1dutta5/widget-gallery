@@ -31,10 +31,10 @@ project.
 
 <table>
   <tr>
-    <td align="center"><img src="docs/screenshots/home.svg" width="220"><br><sub>Gallery home</sub></td>
-    <td align="center"><img src="docs/screenshots/detail.svg" width="220"><br><sub>Widget + source</sub></td>
-    <td align="center"><img src="docs/screenshots/settings.svg" width="220"><br><sub>Language &amp; color</sub></td>
-    <td align="center"><img src="docs/screenshots/themes.svg" width="220"><br><sub>Dark &amp; flavors</sub></td>
+    <td align="center"><img src="docs/screenshots/home.png" width="220"><br><sub>Gallery home</sub></td>
+    <td align="center"><img src="docs/screenshots/detail.png" width="220"><br><sub>Widget + source</sub></td>
+    <td align="center"><img src="docs/screenshots/settings.png" width="220"><br><sub>Language &amp; color</sub></td>
+    <td align="center"><img src="docs/screenshots/theme.svg" width="220"><br><sub>Dark &amp; flavors</sub></td>
   </tr>
 </table>
 
