@@ -78,7 +78,7 @@ fun SettingsSheet(settings: AppSettings, onDismiss: () -> Unit) {
                 modes.forEachIndexed { i, (mode, label, icon) ->
                     SegmentedButton(
                         selected = settings.themeMode == mode,
-                        onClick = { settings.setThemeMode(mode) },
+                        onClick = { settings.themeMode = mode },
                         shape = SegmentedButtonDefaults.itemShape(i, modes.size),
                         icon = { Icon(icon, null, Modifier.size(18.dp)) },
                         label = { Text(label) },
