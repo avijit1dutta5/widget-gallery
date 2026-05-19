@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="620" viewBox="0 0 300 620" font-family="-apple-system,Segoe UI,Roboto,sans-serif">
+  <rect width="300" height="620" rx="28" fill="#1E1E2E" stroke="#313244" stroke-width="2"/>
+  <rect x="110" y="16" width="80" height="10" rx="5" fill="#313244"/>
+  <g transform="translate(150 270)" text-anchor="middle">
+    <circle cx="0" cy="-40" r="34" fill="none" stroke="#6C5CE7" stroke-width="3"/>
+    <text x="0" y="-32" font-size="34" fill="#CDD6F4">&#9656;</text>
+    <text x="0" y="30" font-size="18" font-weight="700" fill="#CDD6F4">Screenshot placeholder</text>
+    <text x="0" y="58" font-size="13" fill="#7F849C">Run the app and replace this</text>
+    <text x="0" y="78" font-size="13" fill="#7F849C">file with a real capture</text>
+    <text x="0" y="118" font-size="12" fill="#89B4FA">see docs/CAPTURE.md</text>
+  </g>
+  <text x="150" y="595" font-size="12" fill="#45475A" text-anchor="middle">Widget Gallery</text>
+</svg>

@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="docs/banner.svg" alt="Widget Gallery" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-3.x-42A5F5?logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Kotlin-2.1-7F52FF?logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-Material%203-4285F4?logo=jetpackcompose&logoColor=white">
+  <img src="https://img.shields.io/badge/Architecture-MVVM%20%2B%20Clean-1E1E2E">
+  <img src="https://img.shields.io/badge/i18n-EN%20%C2%B7%20BN%20%C2%B7%20HI-10B981">
+</p>
+
 # 🎨 Widget Gallery
 
 > A polished, copy-paste UI component gallery — built **twice**, once in
@@ -12,6 +24,29 @@ project.
 
 **Built by [Avijit Dutta](mailto:avijit1dutta5@gmail.com)** ·
 📧 avijit1dutta5@gmail.com
+
+---
+
+## 📸 Screenshots & demo
+
+<table>
+  <tr>
+    <td align="center"><img src="docs/screenshots/home.svg" width="220"><br><sub>Gallery home</sub></td>
+    <td align="center"><img src="docs/screenshots/detail.svg" width="220"><br><sub>Widget + source</sub></td>
+    <td align="center"><img src="docs/screenshots/settings.svg" width="220"><br><sub>Language &amp; color</sub></td>
+    <td align="center"><img src="docs/screenshots/themes.svg" width="220"><br><sub>Dark &amp; flavors</sub></td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="docs/demo/walkthrough.svg" width="240"><br>
+  <sub>Walkthrough — scroll → open a widget → copy its source</sub>
+</p>
+
+> The frames above are placeholders. Capture real screenshots/GIFs with
+> the one-liners in **[docs/CAPTURE.md](docs/CAPTURE.md)**, drop them in
+> `docs/screenshots/` &amp; `docs/demo/`, then run
+> `tools/update_readme_media.sh` to swap the links.
 
 ---
 
