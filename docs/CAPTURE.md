@@ -6,13 +6,13 @@ same filenames so the README picks them up automatically).
 
 Target files:
 
-| File | Screen to capture |
-|------|-------------------|
-| `docs/screenshots/home.png` | Gallery home (grid of widgets) |
-| `docs/screenshots/detail.png` | A widget detail (preview + code) |
+| File                            | Screen to capture |
+|---------------------------------|-------------------|
+| `docs/screenshots/home.png`     | Gallery home (grid of widgets) |
+| `docs/screenshots/detail.png`   | A widget detail (preview + code) |
 | `docs/screenshots/settings.png` | Settings sheet (language / color) |
-| `docs/screenshots/theme.png` | Dark mode + a different color flavor |
-| `docs/demo/walkthrough.gif` | Short scroll → open widget → copy |
+| `docs/screenshots/themes.png`   | Dark mode + a different color flavor |
+| `docs/demo/walkthrough.gif`     | Short scroll → open widget → copy |
 
 > Use `.png` for stills and `.gif` for the demo, then update the README
 > image links from `.svg` to `.png` / `.gif` (or just run
