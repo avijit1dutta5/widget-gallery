@@ -49,7 +49,7 @@ fun SettingsSheet(settings: AppSettings, onDismiss: () -> Unit) {
                 AppLanguage.entries.forEach { lang ->
                     FilterChip(
                         selected = settings.language == lang,
-                        onClick = { settings.setLanguage(lang) },
+                        onClick = { settings.language = lang },
                         label = { Text(lang.nativeName) },
                     )
                 }
@@ -62,7 +62,7 @@ fun SettingsSheet(settings: AppSettings, onDismiss: () -> Unit) {
                 verticalArrangement = Arrangement.spacedBy(16.dp)) {
                 ColorFlavor.entries.forEach { flavor ->
                     Swatch(Color(flavor.seed),
-                        settings.flavor == flavor) { settings.setFlavor(flavor) }
+                        settings.flavor == flavor) { settings.flavor = flavor }
                 }
             }
             Spacer(Modifier.height(28.dp))
